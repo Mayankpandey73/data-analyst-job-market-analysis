@@ -92,7 +92,7 @@ View my notebook with detailed steps here: [2_Skill_Demand](/2_Skills_Demand.ipy
 
 I analyzed monthly job postings to track how top skills evolved throughout the year.
 
-View my notebook with detailed steps here: ![3_Skills_Trend](https://github.com/Mayankpandey73/data-analyst-job-market-analysis/blob/main/3_Skills_Trend.ipynb).
+View my notebook with detailed steps here: [3_Skills_Trend](https://github.com/Mayankpandey73/data-analyst-job-market-analysis/blob/main/3_Skills_Trend.ipynb).
 
 ### Results
 
@@ -140,7 +140,7 @@ Here's the breakdown of the highest-paid & most in-demand skills for data analys
 
 I combined demand and salary data to identify the most valuable skills.
 
-View my notebook with detailed steps here: ![5_Optimal_Skills](https://github.com/Mayankpandey73/data-analyst-job-market-analysis/blob/main/5_Optimal_Skills.ipynb).
+View my notebook with detailed steps here: [5_Optimal_Skills](https://github.com/Mayankpandey73/data-analyst-job-market-analysis/blob/main/5_Optimal_Skills.ipynb).
 
 #### Results
 
