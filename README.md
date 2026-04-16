@@ -1,4 +1,4 @@
-# 📊 Data Analyst Job Market Analysis
+## 📊 Data Analyst Job Market Analysis
 
 ## 📌 Overview
 Welcome to my analysis of the **data job market**, focusing on **Data Analyst roles**, to identify the most **in-demand skills**, **salary trends**, and **optimal career strategies**.
@@ -56,6 +56,17 @@ df_US = df[df['job_country'] == 'United States']
 
 ---
 
+##  EDA 
+
+This section explores the data job market from a global perspective and then narrows down to Data Analyst roles in the United States using bar charts, pie charts, and histograms.
+
+The goal is to understand:
+- Job distribution across roles and countries  
+- Job benefits offered in the market  
+- Salary patterns and hiring trends in the US  
+
+View my notebook with detailed steps here: [1_data_jobs_eda](/1_data_jobs_eda.ipynb).
+
 ## The Analysis
 
 Each Jupyter notebook in this project explores a specific aspect of the data job market.
@@ -81,7 +92,7 @@ View my notebook with detailed steps here: [2_Skill_Demand](/2_Skills_Demand.ipy
 
 I analyzed monthly job postings to track how top skills evolved throughout the year.
 
-View my notebook with detailed steps here: [3_Skills_Trend](\3_Skills_Trend.ipynb).
+View my notebook with detailed steps here: [3_Skills_Trend](\https://github.com/Mayankpandey73/data-analyst-job-market-analysis/blob/main/3_Skills_Trend.ipynb).
 
 ### Results
 
@@ -117,6 +128,7 @@ Next, I narrowed my analysis and focused only on data analyst roles. I looked at
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the US:
 
 ![The Highest Paid & Most In-Demand Skills for Data Analysts in the US](/images/Highest_Paid_and_Most_In_Demand_Skills_for_Data_Analysts.png)
+
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
 ### Insights
@@ -128,7 +140,7 @@ Here's the breakdown of the highest-paid & most in-demand skills for data analys
 
 I combined demand and salary data to identify the most valuable skills.
 
-View my notebook with detailed steps here: [5_Optimal_Skills](\5_Optimal_Skills.ipynb).
+View my notebook with detailed steps here: [5_Optimal_Skills](\https://github.com/Mayankpandey73/data-analyst-job-market-analysis/blob/main/5_Optimal_Skills.ipynb).
 
 #### Results
 
